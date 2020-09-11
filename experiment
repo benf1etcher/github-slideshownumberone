@@ -1,0 +1,10 @@
+<html>
+	<head>
+	layout: slide
+		<title>Welcome to our second slide!</title>
+	</head>
+	<body>
+		<h1>this is the body of the second slide in proper html code</h1>
+		<p>I wonder what this does</p>
+
+Use the left arrow to go back!
